@@ -1,7 +1,7 @@
 {
   "MARIONETTE-LICENSE.txt": "b44373a6a0309d29206a148fc65c8ebb49781f74fe9bee84877e22c0d35f11c0",
   "NOTICE.md": "5d52c82e42ad1c5bf939dcb685bdb203bf2394c82ff14141c170ad6ab7a9d720",
-  "README.md": "3b3d9156f9dfbacd7c42ced79d812e64a59d7adbde68d2da32955a1bba7ba2d5",
+  "README.md": "24df4a82539eed6e5ff7125ef100e8def99d47d0c88716f2c3bfde6585f1e7ac",
   "acceptance/filter-change.spec.ts": "8f1389988d4f1033f059e185f494f02b4afcd47caf7cc011731b0a5da07d5ce1",
   "acceptance/filter.spec.ts": "e7d1cf2f257cb471c35445c43cd7cf568ab5ff303066072ffaef2cc16e2bf252",
   "acceptance/lifecycle.test.mjs": "040a5d2db32860a0665964ba78f269e71beaa5131f58511df009402290137c4c",

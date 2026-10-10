@@ -28,7 +28,7 @@ In B1, each `prepareStart` sets a shared `isStarting` boolean and clears it unco
 
 The deterministic sequence is: successful initial start → A waits for validation → B supersedes A and waits for load → A's noncooperative validation settles late → refresh while B remains pending. The observation was `refreshStartedLoad=true` and `latestLoadSignalAborted=true`; both should be false. See [the observation](observations/restart-race.json), [unchanged candidate](snapshots/B1/solution.mjs), and [reproducer](restart-race.mjs).
 
-This is a defect in **generated controller code**, not a demonstrated Marionette framework defect or runner-policy artifact. The original eleven-case suite missed this overlap. The new probe is post-hoc, unscored, and was not sent back to an evaluated agent. No candidate repair, retry or retroactive grade change occurred. It is tracked separately in this evaluation fork for future acceptance coverage and controller repair.
+This is a defect in **generated controller code**, not a demonstrated Marionette framework defect or runner-policy artifact. The original eleven-case suite missed this overlap. The new probe is post-hoc, unscored, and was not sent back to an evaluated agent. No candidate repair, retry or retroactive grade change occurred. [Evaluation fork issue #2](https://github.com/paulfalgout/marionette-realworld-example-app/issues/2) tracks future acceptance coverage and controller repair separately.
 
 ## Provenance and collection policy
 
