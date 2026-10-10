@@ -1,0 +1,98 @@
+eslint.config.mjs
+  h_0f06c286dda36f 13
+evaluations/2026-10-10/MARIONETTE-LICENSE.txt
+  h_0f06c286dda36f 1-21
+evaluations/2026-10-10/NOTICE.md
+  h_0f06c286dda36f 1-9
+evaluations/2026-10-10/README.md
+  h_0f06c286dda36f 1-93
+evaluations/2026-10-10/acceptance/filter-change.spec.ts
+  h_0f06c286dda36f 1-18
+evaluations/2026-10-10/acceptance/filter.spec.ts
+  h_0f06c286dda36f 1-58
+evaluations/2026-10-10/acceptance/lifecycle.test.mjs
+  h_0f06c286dda36f 1-309
+evaluations/2026-10-10/architecture-A3.json
+  h_0f06c286dda36f 1-51
+evaluations/2026-10-10/assessment-A3.json
+  h_0f06c286dda36f 1-20
+evaluations/2026-10-10/lint-diagnostic.mjs
+  h_0f06c286dda36f 1-21
+evaluations/2026-10-10/manifest.json
+  h_0f06c286dda36f 1-43
+evaluations/2026-10-10/observations/lint.json
+  h_0f06c286dda36f 1-853
+evaluations/2026-10-10/observations/restart-race.json
+  h_0f06c286dda36f 1-24
+evaluations/2026-10-10/publication-verification.json
+  h_0f06c286dda36f 1-13
+evaluations/2026-10-10/published-packages.json
+  h_0f06c286dda36f 1-64
+evaluations/2026-10-10/replay.py
+  h_0f06c286dda36f 1-29
+evaluations/2026-10-10/requirements/composed-lifecycle-repair.md
+  h_0f06c286dda36f 1-47
+evaluations/2026-10-10/requirements/rw-filter-add.md
+  h_0f06c286dda36f 1-16
+evaluations/2026-10-10/requirements/rw-filter-change.md
+  h_0f06c286dda36f 1-12
+evaluations/2026-10-10/requirements/rw-handoff.md
+  h_0f06c286dda36f 1-7
+evaluations/2026-10-10/restart-race.mjs
+  h_0f06c286dda36f 1-57
+evaluations/2026-10-10/results.json
+  h_0f06c286dda36f 1-192
+evaluations/2026-10-10/sealed-original-hashes.json
+  h_0f06c286dda36f 1-49
+evaluations/2026-10-10/snapshots/A1/src/features/feed/application.ts
+  h_0f06c286dda36f 1-173
+evaluations/2026-10-10/snapshots/A1/src/features/feed/views.ts
+  h_0f06c286dda36f 1-166
+evaluations/2026-10-10/snapshots/A1/src/styles.css
+  h_0f06c286dda36f 1-64
+evaluations/2026-10-10/snapshots/A1/tests/filtering.spec.ts
+  h_0f06c286dda36f 1-232
+evaluations/2026-10-10/snapshots/A2/HANDOFF.md
+  h_0f06c286dda36f 1-59
+evaluations/2026-10-10/snapshots/A2/src/features/feed/application.ts
+  h_0f06c286dda36f 1-174
+evaluations/2026-10-10/snapshots/A2/src/features/feed/views.ts
+  h_0f06c286dda36f 1-181
+evaluations/2026-10-10/snapshots/A2/src/styles.css
+  h_0f06c286dda36f 1-63
+evaluations/2026-10-10/snapshots/A2/tests/filtering.spec.ts
+  h_0f06c286dda36f 1-259
+evaluations/2026-10-10/snapshots/A3/HANDOFF.md
+  h_0f06c286dda36f 1-89
+evaluations/2026-10-10/snapshots/A3/src/app/shell.ts
+  h_0f06c286dda36f 1-90
+evaluations/2026-10-10/snapshots/A3/src/features/feed/application.ts
+  h_0f06c286dda36f 1-173
+evaluations/2026-10-10/snapshots/A3/src/features/feed/views.ts
+  h_0f06c286dda36f 1-178
+evaluations/2026-10-10/snapshots/A3/src/styles.css
+  h_0f06c286dda36f 1-64
+evaluations/2026-10-10/snapshots/A3/tests/extended-filtering.spec.ts
+  h_0f06c286dda36f 1-81
+evaluations/2026-10-10/snapshots/A3/tests/filtering.spec.ts
+  h_0f06c286dda36f 1-232
+evaluations/2026-10-10/snapshots/A4/solution.mjs
+  h_0f06c286dda36f 1-65
+evaluations/2026-10-10/snapshots/B1/HANDOFF.md
+  h_0f06c286dda36f 1-53
+evaluations/2026-10-10/snapshots/B1/solution.mjs
+  h_0f06c286dda36f 1-112
+evaluations/2026-10-10/snapshots/B1/test_solution.mjs
+  h_0f06c286dda36f 1-594
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3a19dbc5c67dcfe183e0e3dc154622f6935c4370",
+  "prompts": {},
+  "humans": {
+    "h_0f06c286dda36f": {
+      "author": "Paul Falgout <paul.falgout@roundingwell.com>"
+    }
+  }
+}
