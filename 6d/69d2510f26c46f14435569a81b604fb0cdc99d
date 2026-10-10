@@ -1,0 +1,16 @@
+evaluations/2026-10-10/README.md
+  h_0f06c286dda36f 31
+evaluations/2026-10-10/manifest.json
+  h_0f06c286dda36f 4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6d69d2510f26c46f14435569a81b604fb0cdc99d",
+  "prompts": {},
+  "humans": {
+    "h_0f06c286dda36f": {
+      "author": "Paul Falgout <paul.falgout@roundingwell.com>"
+    }
+  }
+}
